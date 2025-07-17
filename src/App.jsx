@@ -96,7 +96,7 @@ export default function Portfolio() {
           <h2 className="text-6xl font-extrabold mb-12 text-blue-400">Get In Touch</h2>
           <p className="text-gray-200 mb-10 text-3xl">Reach out via any of the platforms below:</p>
           <p className="text-gray-400 text-2xl mb-2">Phone: +91 7606866257</p>
-          <p className="text-gray-400 text-2xl mb-8">Email: laxmidharojha@gmail.com</p>
+          <p className="text-gray-400 text-2xl mb-8">Email: laxmidharojha2003@gmail.com</p>
           <div className="flex justify-center space-x-10 text-3xl">
             <a href="https://github.com" className="text-blue-400 hover:text-white">GitHub</a>
             <a href="https://linkedin.com" className="text-blue-400 hover:text-white">LinkedIn</a>
